@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hunter",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Hunter",
+  "start_url": "https://ryhadgamma.github.io/Hunter-Protocol-/",
+  "theme_color": "#ffffff",
+  "description": "Sport",
+  "lang": "fr"
+}
